@@ -1,0 +1,48 @@
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+
+}
+.enviar {
+    width:10%;
+    padding: 15px 0;
+    background: #000000;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto ;
+
+}
+body {
+    text-align: center;
+    background-image: url('../cadastro/img/cadas.jpg');
+}
+h2{
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    border: 10px;
+    text-align: center;
+}
+div{ 
+    margin: 30px;
+    text-align: center;
+}
+table{
+    text-align: center;
+}
